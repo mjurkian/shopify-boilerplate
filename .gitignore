@@ -1,0 +1,20 @@
+### Windows ###
+Thumbs.db
+
+### Mac ###
+.DS_Store
+
+### JetBrains ###
+.idea/
+
+### Logs ###
+*.log
+
+### Node ###
+/node_modules/
+
+### Config ###
+config.yml
+
+### Dist ###
+/dist/

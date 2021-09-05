@@ -1,0 +1,7 @@
+development:
+  password: shppa_14bc04351c854dfsd3dfgdfg06e371c887d
+  theme_id: "118354646983"
+  store: namkos-dev.myshopify.com
+  directory: dist/
+  ignore_files:
+    - config/settings_data.json
